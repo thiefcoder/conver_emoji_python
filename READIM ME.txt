@@ -1,0 +1,5 @@
+simple exmaple for convert and Dictionary in python
+:) -> 😀
+:D -> 😀
+:P -> 😛
+:( -> 😞
